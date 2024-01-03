@@ -1,0 +1,16 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+.banner {
+    background-image: url();
+    background-size: cover;
+    padding: 30px;
+}
+form {
+    max-width: 400px; /* Adjust the maximum width for the form */
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff; /* White form background */
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
